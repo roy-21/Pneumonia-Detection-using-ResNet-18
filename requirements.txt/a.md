@@ -1,4 +1,7 @@
-torch
-torchvision
-torchmetrics
-numpy
+# torch
+---
+# torchvision
+---
+# torchmetrics
+---
+# numpy
