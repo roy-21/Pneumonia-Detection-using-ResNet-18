@@ -1,1 +1,4 @@
-
+torch
+torchvision
+torchmetrics
+numpy
